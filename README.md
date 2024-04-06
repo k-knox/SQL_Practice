@@ -1,19 +1,19 @@
 
-# SQL Practice: Answering Business Questions using MySQL 
+# SQL Practice 1: Answering Business Questions using MySQL 
 
 ## Overview: 
 
-In this project I will be demonstrating MySQL skills by answering a variety of practice business questions. 
+In this exercise, I'll be showcasing my SQL skills by tackling a set of business questions, simulating the role of a data analyst. This practice session is aimed at refining and expanding my proficiency in MySQL.
 
 ### Scenario 
 
-I’m co-owner of a recently acquired movie rental business **Maven Movies**. As a new owner I need to have a deep understanding of my organization, which means conducting a basic exploratory analysis of my product inventory, staff, and customer purchasing behaviors. 
+I’m co-owner of a recently acquired movie rental business **Maven Movies**. As a new owner I need to have a deep understanding of my organization, which means conducting a basic exploratory analysis of my product inventory, staff, and customer purchasing behaviors. I'll prepare to answer a variety of questions for both my investors and potential buyers should we decide to sell.  
 
 
 ### Additional Information: 
-Editor | Database Name
-:---|:---
-MySQL Workbench (Version 8.031) | mavenmovies (17 tables) 
+Editor | Database Name | Source
+:---:|:---:|:---:
+MySQL Workbench (Version 8.031) | mavenmovies (17 tables) | Maven Analytics
 
 ## Questions
 
